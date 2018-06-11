@@ -1,0 +1,11 @@
+D:\VisualStudio\Delegado\Delegado\bin\Debug\Delegado.exe.config
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.frmMensaje.resources
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.frmPpal.resources
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.Properties.Resources.resources
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.csproj.GenerateResource.Cache
+D:\VisualStudio\Delegado\Delegado\bin\Debug\Delegado.exe
+D:\VisualStudio\Delegado\Delegado\bin\Debug\Delegado.pdb
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.exe
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.pdb
+D:\VisualStudio\Delegado\Delegado\obj\Debug\Delegado.frmAccion.resources
